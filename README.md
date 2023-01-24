@@ -1,4 +1,10 @@
+
+#=========[ MY SCRIPT OPEN SOURCE CODER ]============#
+
+
+
 # PERINTAH TERMUX #
+
 
  $ pkg update && pkg upgrade
 
