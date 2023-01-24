@@ -1,5 +1,5 @@
 
-#=========[ MY SCRIPT OPEN SOURCE CODER ]============#
+#======[ MY SCRIPT OPEN SOURCE CODER ]======#
 
 
 
